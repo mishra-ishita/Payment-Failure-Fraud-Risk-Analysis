@@ -19,12 +19,12 @@ This project builds a **data-driven fraud analysis system** to identify high-ris
 - Build a **risk scoring model** to classify transactions  
 - Generate insights for fraud prevention  
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - **SQL** → Data extraction, KPI calculation, fraud segmentation  
 - **Python (Pandas, NumPy, Matplotlib)** → Data cleaning, feature engineering, analysis  
 - **Power BI** → Interactive dashboards & visualization  
 
-## 📊 Dataset Summary
+## Dataset Summary
 - Total Transactions: **200**  
 - Fraud Transactions: **54**  
 - Fraud Rate: **27%**  
@@ -77,7 +77,7 @@ A **rule-based risk scoring system** was developed using:
 
 The model captures **90%+ fraud cases in medium/high-risk segments**
 
-## 💡 Business Recommendations
+## Business Recommendations
 - Strengthen monitoring for **crypto and international transactions**  
 - Flag transactions with **missing device information**  
 - Implement stricter checks for **high-value payments**  
